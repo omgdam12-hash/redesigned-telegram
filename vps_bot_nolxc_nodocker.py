@@ -52,7 +52,7 @@ import secrets
 # ─────────────────────────────────────────────────────────────────────────
 
 DISCORD_TOKEN = os.getenv('DISCORD_TOKEN', '')
-BOT_NAME = os.getenv('BOT_NAME', 'UnixNodes')
+BOT_NAME = os.getenv('BOT_NAME', 'DevilClouds')
 PREFIX = os.getenv('PREFIX', '!')
 YOUR_SERVER_IP = os.getenv('YOUR_SERVER_IP', '127.0.0.1')
 MAIN_ADMIN_ID = int(os.getenv('MAIN_ADMIN_ID', ''))
