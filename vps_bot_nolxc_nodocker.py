@@ -57,7 +57,7 @@ PREFIX = os.getenv('PREFIX', '!')
 YOUR_SERVER_IP = os.getenv('YOUR_SERVER_IP', '127.0.0.1')
 MAIN_ADMIN_ID = int(os.getenv('MAIN_ADMIN_ID', ''))
 VPS_USER_ROLE_ID = int(os.getenv('VPS_USER_ROLE_ID', ''))
-BOT_VERSION = os.getenv('BOT_VERSION', '7.0-PRO-NOCONTAINER')
+BOT_VERSION = os.getenv('BOT_VERSION', '2.0-PRO-MAX')
 BOT_DEVELOPER = os.getenv('BOT_DEVELOPER', '')
 
 VPS_HOME_ROOT = os.getenv('VPS_HOME_ROOT', '/home')
