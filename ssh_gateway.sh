@@ -7,7 +7,7 @@ set -u
 DB_PATH="${VPS_DB_PATH:-vps.db}"
 
 echo "==================================================="
-echo " AlwayzPlayzZ VM 3 Web Terminal Gateway"
+echo " DevilClouds VM 2 Web Terminal Gateway"
 echo "==================================================="
 read -p "Enter your one-time access code: " CODE
 
